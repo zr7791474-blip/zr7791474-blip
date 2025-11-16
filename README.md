@@ -1,4 +1,4 @@
-## Hi the# 💫 About Me:
+##  💫 About Me:
 Hi there! 👋<br>I’m a passionate developer who loves building clean, efficient, and creative solutions.<br>I enjoy learning new technologies, exploring open-source projects, and constantly improving my skills through hands-on practice.<br><br>🌱 Currently learning: Full-stack development & modern web frameworks<br>💡 Interests: Web development, APIs, automation, and open-source software<br>🚀 Goal: To build useful projects, collaborate with developers, and grow as a software engineer<br>📫 How to reach me: feel free to contact me anytime!
 
 

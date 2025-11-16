@@ -18,7 +18,7 @@ Hi there! 👋<br>I’m a passionate developer who loves building clean, efficie
 ---
 [![](https://visitcount.itsvg.in/api?id=zr7791474-blip&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->re 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -
 
 <!--
 **zr7791474-blip/zr7791474-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

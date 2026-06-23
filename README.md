@@ -1,54 +1,77 @@
-# 👨‍💻 About Me
+# 👨‍💻 Zakaria Adli — Full-Stack Developer
 
-I’m a **Full-Stack Developer** focused on building clean, efficient, and scalable web applications.  
-I enjoy working across both frontend and backend systems, exploring modern web technologies, and contributing to open-source projects.
-
-- 🔭 Focus: Full-stack web development
-- ⚙️ Interests: Web apps, APIs, automation, and system design
-- 🚀 Goal: Build impactful products and contribute to real-world projects
-- 📫 Contact: Open to collaborations and opportunities
+Full-Stack Developer focused on building modern, scalable, and production-ready web applications using the latest web technologies.
 
 ---
 
 # 🌐 Socials
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zkr_ad)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zr7791474@gmail.com)
+- GitHub: https://github.com/zr7791474-blip  
+- X (Twitter): https://x.com/zkr_ad  
+- Email: zr7791474@gmail.com  
 
 ---
 
 # 💻 Tech Stack
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+## Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Backend
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+## Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![NextAuth](https://img.shields.io/badge/Auth-NextAuth-black?style=for-the-badge)
 
-### Deployment & Tools
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+## Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Featured Project
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=zr7791474-blip&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+## 🛒 ZKR Ecommerce
+Full-stack modern eCommerce platform built with Next.js 14, Prisma, PostgreSQL, and Tailwind CSS.
 
-![Streak Stats](https://streak-stats.demolab.com/?user=zr7791474-blip&theme=dark&hide_border=false)
+### 🔗 Links
+- Live: https://zkr-ecommerce.vercel.app  
+- Repo: https://github.com/zr7791474-blip/ZKR-Ecommerce  
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=zr7791474-blip&theme=dark&hide_border=false&layout=compact)
+### ✨ Features
+- Product catalog
+- Cart system
+- Wishlist
+- Checkout flow
+- Authentication
+- Dark mode
+- Responsive design
 
 ---
 
-# 👁️ Profile Views
+# 🎯 Focus Areas
 
-[![Profile Views](https://komarev.com/ghpvc/?username=zr7791474-blip&color=11)](https://visitcount.itsvg.in)
+- Full-Stack Web Development  
+- SaaS Applications  
+- API Development  
+- System Design  
+- Performance Optimization  
+
+---
+
+# 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zr7791474-blip&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zr7791474-blip&layout=compact&theme=tokyonight)
+
+---
+
+# 📫 Contact
+
+Open for collaborations and opportunities.
+
+Email: zr7791474@gmail.com

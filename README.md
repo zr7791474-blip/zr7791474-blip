@@ -1,41 +1,46 @@
-<!-- ========================================================= -->
-<!--               PREMIUM TERMINAL GITHUB PROFILE             -->
-<!-- ========================================================= -->
+<!-- ========================================================== -->
+<!--                  ZAKARIA ADLI | GITHUB PROFILE              -->
+<!-- ========================================================== -->
 
 <div align="center">
 
-# Zakaria Adli
+# 👋 Hi, I'm Zakaria Adli
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2500&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+Modern+%26+Scalable+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+PHP;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=2000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Building+Modern+%26+Scalable+Web+Applications;React+•+Next.js+•+Node.js+•+TypeScript;Always+Learning+Something+New" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=zr7791474-blip&style=for-the-badge&color=58A6FF"/>
 
 </div>
 
 ---
 
 ```text
-┌──────────────────────────────────────────────────────────────┬─────────────────────────────────────────────────────────────────────────────┐
-│                                                              │  zakaria@github
-│                           .''.                               │  ─────────────────────────────────────────────────────────────────────────
-│                        .''    ''.                            │
-│                     .''  .--.  ''.                           │  OS................. Web Development
-│                   .'   .'    '.   '.                        │  Shell.............. Git Bash / Terminal
-│                  /    /  ()    \    \                       │  Editor............. VS Code
-│                 ;    |   ~~     |    ;                      │  Stack.............. Full-Stack Web
-│                 |    |  .--.    |    |                      │
-│                 |    | (____)   |    |                      │  Name............... Zakaria Adli
-│                 |     \        /     |                      │  Role............... Full-Stack Developer
-│                  ;      '.__.'      ;                       │  Focus.............. Modern & Scalable Web Apps
-│                   \                /                        │  Learning........... TypeScript / Next.js
-│                    '.            .'                         │
-│                      '-._____.-'                           │  Languages.......... HTML • CSS • JavaScript • TypeScript • PHP
-│                         /||||\                             │  Backend............ Node.js • PHP • Prisma • NextAuth
-│                       _/ |||| \_                           │  Databases.......... MySQL • PostgreSQL
-│                     .'___||||___'.                         │
-│                                                              │  Contact
-│                                                              │  GitHub............. github.com/zr7791474-blip
-│                                                              │  X (Twitter)........ x.com/zkr_ad
-│                                                              │  Email.............. zr7791474@gmail.com
-└──────────────────────────────────────────────────────────────┴─────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┬────────────────────────────────────────────────────┐
+│                                              │ zakaria@github
+│              ⢀⣀⣀⣀⣀⣀                    │ ───────────────────────────────────────────────────
+│           ⣠⠞⠀⠀⠀⠀⠀⠙⢦⡀               │
+│         ⣰⠃⠀⢀⣤⣤⣤⡀⠀⠘⣆              │ OS................. Web Development
+│        ⢰⡇⠀⢰⣿⣿⣿⣿⡆⠀⢸⡆             │ Editor............. VS Code
+│        ⢸⡇⠀⠈⣿⣿⣿⣿⠁⠀⢸⡇             │ Shell.............. Git Bash
+│         ⢧⠀⠀⠈⠻⠿⠟⠀⠀⡼               │ Git................ Git & GitHub
+│          ⠳⣄⠀⠀⠀⠀⠀⣠⠞                │ Deployment......... Vercel
+│            ⠙⠦⣄⣀⣠⠴⠋                  │
+│                                              │ Name............... Zakaria Adli
+│      Inspired by Gear 5 Terminal             │ Role............... Full-Stack Developer
+│                                              │ Focus.............. Scalable Web Apps
+│                                              │ Learning........... TypeScript / Next.js
+│                                              │
+│                                              │ Frontend........... HTML • CSS • JS • TS • React
+│                                              │ Backend............ Node.js • PHP • Prisma
+│                                              │ Database........... MySQL • PostgreSQL
+│                                              │ Styling............ Tailwind • Bootstrap
+│                                              │
+│                                              │ GitHub............. zr7791474-blip
+│                                              │ X................. @zkr_ad
+│                                              │ Email.............. zr7791474@gmail.com
+└──────────────────────────────────────────────┴────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -50,7 +55,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 
 ### Backend
@@ -63,25 +68,35 @@
 ### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=316192)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=336791)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-111111?style=for-the-badge&logo=apache&logoColor=D22128)
-
 ---
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zr7791474-blip&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zr7791474-blip&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zr7791474-blip&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=zr7791474-blip&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zr7791474-blip&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -89,110 +104,158 @@
 
 </div>
 
+---
+
+# 🏆 GitHub Trophies
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=zr7791474-blip&style=for-the-badge&color=0e75b6"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=zr7791474-blip&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=zr7791474-blip&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
-> **Note:** A GitHub streak card is not included because your original README did not use one. If you'd like one, you can add:
->
-> `https://streak-stats.demolab.com?user=zr7791474-blip&theme=tokyonight&hide_border=true`
+---
+
+# 🐍 Contribution Snake
+
+> **Enable this later using GitHub Actions.**
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/zr7791474-blip/zr7791474-blip/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
-# 🚀 Featured Project
+# ⚡ About Me
 
-<table>
-<tr>
-<td width="100%">
+```text
+> Full-Stack Developer passionate about building modern,
+> scalable and user-friendly web applications.
 
-## 🛒 ZKR Ecommerce
+Current Mission
+────────────────────────────────────────
 
-**Full-stack eCommerce platform** built with **PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap**.
+✓ Master TypeScript
+✓ Build production-ready SaaS applications
+✓ Improve Backend Architecture
+✓ Learn Cloud & DevOps
+✓ Create an outstanding portfolio
 
-### Tech Stack
+Philosophy
+────────────────────────────────────────
 
-`PHP` • `MySQL` • `HTML5` • `CSS3` • `JavaScript` • `Bootstrap`
+"Write clean code today,
+so you don't have to rewrite it tomorrow."
+```
 
-### Features
+---
+---
 
-- Product Catalog
-- Shopping Cart
-- Wishlist
-- Checkout Flow
-- Authentication
-- Responsive Design
-- Dark Mode
+# 🚀 Featured Projects
 
-### Links
+<div align="center">
 
-**🌐 Live Demo**
+| Project | Description | Stack |
+|:--------:|-------------|-------|
+| **🛒 ZKR Ecommerce** | Modern full-stack eCommerce platform with authentication, shopping cart, wishlist, checkout and responsive UI. | PHP • MySQL • JavaScript • Bootstrap |
+| **🚧 ZKR Eclipse** *(Coming Soon)* | AI-powered SaaS platform focused on productivity, project management and modern dashboards. | Next.js • TypeScript • Prisma • PostgreSQL |
 
-https://zkr-ecommerce.vercel.app
-
-**📦 Repository**
-
-https://github.com/zr7791474-blip/ZKR-Ecommerce
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-# 🛠 Current Goals
+<div align="center">
 
-- [x] Build modern full-stack applications
-- [x] Improve backend architecture skills
-- [x] Create scalable database solutions
-- [x] Continue learning TypeScript & Next.js
-- [ ] Expand production-ready portfolio
+### 🛒 ZKR Ecommerce
+
+<a href="https://zkr-ecommerce.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-111111?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/zr7791474-blip/ZKR-Ecommerce">
+<img src="https://img.shields.io/badge/📦_Repository-111111?style=for-the-badge"/>
+</a>
+
+</div>
 
 ---
 
-# 🎯 Focus Areas
+# ⚙️ Skills Overview
+
+```text
+Frontend
+██████████████████████░░ 90%
+
+Backend
+█████████████████░░░░░░░ 75%
+
+Database
+████████████████░░░░░░░░ 70%
+
+UI / UX
+█████████████████░░░░░░░ 75%
+
+Problem Solving
+███████████████████░░░░░ 85%
+
+Continuous Learning
+███████████████████████░ 95%
+```
+
+---
+
+# 🎯 Current Goals
+
+- ✅ Build production-ready Full-Stack applications
+- ✅ Master TypeScript & Next.js
+- ✅ Learn Cloud & DevOps fundamentals
+- ✅ Improve software architecture skills
+- ⏳ Launch **ZKR Eclipse**
+- ⏳ Build an impressive portfolio
+- ⏳ Contribute to Open Source
+
+---
+
+# 💡 Focus Areas
 
 ```text
 ▣ Full-Stack Development
-▣ Backend Development (Node.js / PHP)
-▣ Database Design (MySQL / PostgreSQL)
-▣ Modern UI / UX
+
+▣ Backend Engineering
+
+▣ SaaS Applications
+
+▣ REST APIs
+
+▣ Database Design
+
+▣ Authentication Systems
+
+▣ Responsive UI
+
+▣ Performance Optimization
+
+▣ Clean Architecture
+
 ▣ Scalable Web Applications
 ```
 
 ---
 
-# 🌐 Connect With Me
+# 📚 Currently Learning
 
 <div align="center">
 
-<a href="https://github.com/zr7791474-blip">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
-<a href="https://x.com/zkr_ad">
-<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-<a href="mailto:zr7791474@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
+![Prisma](https://img.shields.io/badge/Prisma-111111?style=for-the-badge&logo=prisma&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=336791)
 
 </div>
 
 ---
-
-<div align="center">
-
-```text
-──────────────────────────────────────────────────────────────────────
-
-"Code should be scalable, maintainable, and built with purpose."
-
-──────────────────────────────────────────────────────────────────────
-```
-
-</div>

@@ -1,27 +1,27 @@
-┌──────────────────────────────────────────────┬────────────────────────────────────────────────────┐
-│                                              │ zakaria@github
-│                                              │ ───────────────────────────────────────────────────
-│                                              │
-│                                              │ OS................. Windows 11
-│                                              │ IDE................ VS Code
-│                                              │ Shell.............. Git Bash
-│                                              │ Git................ Git & GitHub
-│                                              │ Deployment......... Vercel
-│                                              │
-│                                              │ Name............... Zakaria Adli
-│                                              │ Role............... Full-Stack Developer
-│                                              │ Focus.............. Scalable Web Applications
-│                                              │ Learning........... TypeScript / Next.js
-│                                              │
-│                                              │ Frontend........... HTML • CSS • JavaScript • React
-│                                              │ Backend............ Node.js • PHP • Prisma
-│                                              │ Database........... MySQL • PostgreSQL
-│                                              │ Styling............ Tailwind CSS • Bootstrap
-│                                              │
-│                                              │ GitHub............. zr7791474-blip
-│                                              │ X.................. @zkr_ad
-│                                              │ Email.............. zr7791474@gmail.com
-└──────────────────────────────────────────────┴────────────────────────────────────────────────────┘
+```text
+zakaria@github
+────────────────────────────────────────
+
+Name        : Zakaria Adli
+Role        : Full-Stack Developer
+
+OS          : Windows 11
+Editor      : VS Code
+Shell       : Git Bash
+Git         : Git & GitHub
+Deployment  : Vercel
+
+Frontend    : HTML • CSS • JavaScript • React
+Backend     : Node.js • PHP • Prisma
+Database    : MySQL • PostgreSQL
+Styling     : Tailwind CSS • Bootstrap
+
+Learning    : TypeScript • Next.js
+
+GitHub      : zr7791474-blip
+X           : @zkr_ad
+Email       : zr7791474@gmail.com
+```
 
 ---
 

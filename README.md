@@ -25,20 +25,20 @@ Email       : zr7791474@gmail.com
 
 ---
 
-## Connect
+## 🤝 Connect
 
 <div align="center">
 
-<a href="https://github.com/zr7791474-blip">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/zr7791474-blip" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://x.com/zkr_ad">
-<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
+<a href="https://x.com/zkr_ad" target="_blank">
+  <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 
 <a href="mailto:zr7791474@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 
 </div>
@@ -47,7 +47,7 @@ Email       : zr7791474@gmail.com
 
 <div align="center">
 
-> *"Code should be scalable, maintainable, and built with purpose."*
+> **"Code should be scalable, maintainable, and built with purpose."**
 
 <br>
 

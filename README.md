@@ -1,4 +1,4 @@
-<h1 align="center">Zakaria Adli</h1>
+<h1 align="center">Zakariaa Adli</h1>
 <h3 align="center">Full-Stack Developer • Casablanca</h3>
 
 <p align="center">

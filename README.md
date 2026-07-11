@@ -1,11 +1,6 @@
-<!-- Top heading -->
-<h2 align="center">Zakaria Adli — Full‑Stack Developer</h2>
-
-<!-- Two-column layout: LEFT = ASCII (pre) | RIGHT = professional content -->
 <table>
   <tr>
-    <!-- LEFT: ASCII art (keeps exact spaces/lines) -->
-    <td valign="top" width="36%">
+    <td valign="top" width="40%">
 <pre>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⣰⣾⠁⠀⢦⣾⣤⠆⠀⠻⣧⠀⠀⠀⠀⠀⠀
@@ -28,48 +23,59 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </pre>
     </td>
+    <td valign="top" width="60%">
 
-    <!-- RIGHT: professional content -->
-    <td valign="top" width="64%">
-
-### About
-
-I am a full‑stack web developer based in Casablanca. I build reliable, maintainable applications and deliver value quickly — from prototypes to production.
-
-### Services I provide
-
-- Front‑end development: React, TypeScript, Next.js — polished, responsive UIs.  
-- Back‑end development: Node.js, PHP, Prisma — secure APIs and business logic.  
-- Data & persistence: MySQL, PostgreSQL — schema design, indexing, and migration.  
-- Deployment & CI: Vercel, Git workflows — production rollouts and monitoring.
-
-### Tech stack
+<h1 align="left">Zakariaa Adli</h1>
+<h3 align="left">Full-Stack Developer • Casablanca</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,next,nodejs,php,prisma,mysql,postgres,tailwind,bootstrap,git,github&perline=8" alt="Tech icons" />
+I build modern web products that look sharp, load fast, and feel effortless to use. My focus is simple: ship clean interfaces, solid backends, and dependable systems that help real clients get real work done.
 </p>
-
-### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,vercel,bash&perline=8" alt="Tools icons" />
+I work with founders, startups, and small teams who want someone reliable to turn ideas into production-ready apps without the chaos.
 </p>
 
-### Work approach
+<h3 align="left">What I bring</h3>
 
-- Clear estimates, regular updates, and incremental delivery.  
-- Clean code, tests where it matters, and readable documentation.  
-- Focus on user value: shipping features that move the business forward.
+<ul>
+  <li>Front-end experiences that are responsive, polished, and easy to navigate.</li>
+  <li>Back-end systems built for structure, scalability, and maintainability.</li>
+  <li>Database design and optimization with MySQL and PostgreSQL.</li>
+  <li>Deployment workflows that keep shipping smooth and predictable.</li>
+</ul>
 
-### Contact
+<h3 align="left">Tech stack</h3>
 
 <p>
-<a href="https://github.com/zr7791474-blip"><img src="https://img.shields.io/badge/GitHub-zr7791474--blip-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://x.com/zkr_ad"><img src="https://img.shields.io/badge/X-@zkr__ad-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="mailto:zr7791474@gmail.com"><img src="https://img.shields.io/badge/Email-zr7791474%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,next,nodejs,php,prisma,mysql,postgres,tailwind,bootstrap,git,github&perline=8" alt="Tech stack icons" />
 </p>
 
-**"Code should be scalable, maintainable, and built with purpose."**
+<h3 align="left">Tools</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,vercel,bash&perline=8" alt="Tools icons" />
+</p>
+
+<h3 align="left">How I work</h3>
+
+<ul>
+  <li>Clear communication from first message to delivery.</li>
+  <li>Fast feedback cycles with focused progress.</li>
+  <li>Code that stays readable, extendable, and client-friendly.</li>
+</ul>
+
+<h3 align="left">Contact</h3>
+
+<p>
+  <a href="https://github.com/zr7791474-blip"><img src="https://img.shields.io/badge/GitHub-zr7791474--blip-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://x.com/zkr_ad"><img src="https://img.shields.io/badge/X-@zkr__ad-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="mailto:zr7791474@gmail.com"><img src="https://img.shields.io/badge/Email-zr7791474%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+</p>
+
+<blockquote>
+  Code should be scalable, maintainable, and built with purpose.
+</blockquote>
 
     </td>
   </tr>

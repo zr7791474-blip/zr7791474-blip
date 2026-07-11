@@ -1,13 +1,11 @@
-<div>
-
+<!-- Top heading -->
 <h2 align="center">Zakaria Adli — Full‑Stack Developer</h2>
 
-<div style="display: table; width: 100%; border-spacing: 24px 0;">
-  <div style="display: table-row;">
-
-  
-    <div style="display: table-cell; vertical-align: top; width: 32%;">
-
+<!-- Two-column layout: LEFT = ASCII (pre) | RIGHT = professional content -->
+<table>
+  <tr>
+    <!-- LEFT: ASCII art (keeps exact spaces/lines) -->
+    <td valign="top" width="36%">
 <pre>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⣰⣾⠁⠀⢦⣾⣤⠆⠀⠻⣧⠀⠀⠀⠀⠀⠀
@@ -29,72 +27,50 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⢿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </pre>
+    </td>
 
-    </div>
+    <!-- RIGHT: professional content -->
+    <td valign="top" width="64%">
 
-   
-    <div style="display: table-cell; vertical-align: top; width: 68%;">
+### About
 
-<h3>About</h3>
+I am a full‑stack web developer based in Casablanca. I build reliable, maintainable applications and deliver value quickly — from prototypes to production.
 
-<p>
-I am a <strong>full‑stack web developer</strong> based in Casablanca, building fast, reliable applications from concept to production.  
-I focus on clean architecture, maintainable code, and pragmatic solutions that solve real business problems.
-</p>
+### Services I provide
 
-<h3>What I Do</h3>
+- Front‑end development: React, TypeScript, Next.js — polished, responsive UIs.  
+- Back‑end development: Node.js, PHP, Prisma — secure APIs and business logic.  
+- Data & persistence: MySQL, PostgreSQL — schema design, indexing, and migration.  
+- Deployment & CI: Vercel, Git workflows — production rollouts and monitoring.
 
-<ul>
-  <li>Design and develop modern front‑end interfaces with React, TypeScript, and Next.js.</li>
-  <li>Build secure and scalable back‑end APIs using Node.js, PHP, and Prisma.</li>
-  <li>Model and optimize relational databases with MySQL and PostgreSQL.</li>
-  <li>Ship production‑ready applications on Vercel with CI‑friendly Git workflows.</li>
-</ul>
-
-<h3>Tech Stack</h3>
+### Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,next,nodejs,php,prisma,mysql,postgres,tailwind,bootstrap,git,github&perline=8" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,next,nodejs,php,prisma,mysql,postgres,tailwind,bootstrap,git,github&perline=8" alt="Tech icons" />
 </p>
 
-<h3>Tools</h3>
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,vercel,bash" alt="Tools icons" />
+<img src="https://skillicons.dev/icons?i=vscode,vercel,bash&perline=8" alt="Tools icons" />
 </p>
 
-<h3>Work Style</h3>
+### Work approach
 
-<ul>
-  <li>Write code that is easy to understand, test, and extend.</li>
-  <li>Communicate clearly and document decisions so teams can move faster.</li>
-  <li>Prefer incremental delivery: small, measurable improvements over big risky changes.</li>
-</ul>
+- Clear estimates, regular updates, and incremental delivery.  
+- Clean code, tests where it matters, and readable documentation.  
+- Focus on user value: shipping features that move the business forward.
 
-<h3>Let’s Work Together</h3>
+### Contact
 
 <p>
-If you need a developer who can take a project from idea to deployment—front‑end, back‑end, and database—I’d be glad to discuss your requirements.
+<a href="https://github.com/zr7791474-blip"><img src="https://img.shields.io/badge/GitHub-zr7791474--blip-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://x.com/zkr_ad"><img src="https://img.shields.io/badge/X-@zkr__ad-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="mailto:zr7791474@gmail.com"><img src="https://img.shields.io/badge/Email-zr7791474%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/zr7791474-blip" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-zr7791474--blip-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://x.com/zkr_ad" target="_blank">
-    <img src="https://img.shields.io/badge/X-@zkr__ad-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="mailto:zr7791474@gmail.com">
-    <img src="https://img.shields.io/badge/Email-zr7791474%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-  </a>
-</p>
+**"Code should be scalable, maintainable, and built with purpose."**
 
-<p>
-<strong>"Code should be scalable, maintainable, and built with purpose."</strong>
-</p>
-
-    </div>
-  </div>
-</div>
-
-</div>
+    </td>
+  </tr>
+</table>

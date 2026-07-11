@@ -1,5 +1,5 @@
 <h1 align="center">Zakariaa Adli</h1>
-<h3 align="center">Full-Stack Developer • Casablanca</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
 I build modern web products that look sharp, load fast, and feel effortless to use. My focus is simple: ship clean interfaces, solid backends, and dependable systems that help real clients get real work done.

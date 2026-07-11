@@ -1,3 +1,6 @@
+<div style="display: flex; align-items: flex-start; gap: 24px;">
+
+<pre>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠔⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡞⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡾⡞⠠⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -23,19 +26,21 @@
 ⠀⢱⡄⠀⠀⠀⠀⠀⢹⡈⣟⡛⠿⠷⠒⢶⣾⠀⠀⠀⠀⠀⠀⠀⠀⠙⠶⠶⠶⡿⠟⠁⠀⠀⠀⣿⢀⠀⣿⠀⣏⣀⠀⠀⢿⡽⠋⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀
 ⠀⠀⢻⣦⠀⠀⠀⠀⠀⢧⡘⣆⠻⠶⢦⣤⣽⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⠀⢹⡟⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀
 ⠀⠀⠀⢳⡀⠀⠀⠀⠀⠀⠳⣌⣳⣜⣷⡞⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡟⠷⠀⣷⡾⠀⠀⠛⠓⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀
+</pre>
 
+<div>
 
-zakaria@github
-────────────────────────────────────────
+zakaria@github  
+────────────────────────────────────────  
 
-Name        : Zakaria Adli
-Role        : Full-Stack Developer
+Name        : Zakaria Adli  
+Role        : Full-Stack Developer  
 
-OS          : Windows 11
-Editor      : VS Code
-Shell       : Git Bash
-Git         : Git & GitHub
-Deployment  : Vercel
+OS          : Windows 11  
+Editor      : VS Code  
+Shell       : Git Bash  
+Git         : Git & GitHub  
+Deployment  : Vercel  
 
 Frontend    : HTML • CSS • JavaScript • React  
 Backend     : Node.js • PHP • Prisma  
@@ -47,3 +52,6 @@ Learning    : TypeScript • Next.js
 GitHub      : zr7791474-blip  
 X           : @zkr_ad  
 Email       : zr7791474@gmail.com  
+
+</div>
+</div>

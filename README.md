@@ -37,7 +37,7 @@ I work with founders, startups, and small teams who want someone reliable to tur
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,next,nodejs,php,prisma,mysql,postgres,tailwind,bootstrap,git,github&perline=8" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,vite,next,nodejs,php,prisma,mysql,postgres,tailwind,bootstrap,git,github,npm&perline=8" alt="Tech stack icons" />
 </p>
 
 <br>

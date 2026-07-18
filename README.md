@@ -37,7 +37,7 @@ I work with founders, startups, and small teams who want someone reliable to tur
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,vite,next,nodejs,php,prisma,mysql,postgres,tailwind,bootstrap,git,github,npm&perline=8" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,vite,nodejs,php,prisma,mysql,postgres,graphql,tailwind,bootstrap,aws,vercel,docker,githubactions,cloudflare,git,github,npm&perline=8" alt="Tech stack icons" />
 </p>
 
 <br>
@@ -49,8 +49,10 @@ I work with founders, startups, and small teams who want someone reliable to tur
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,vercel,bash&perline=8" alt="Tools icons" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,notion,bash&perline=8" alt="Tools icons" />
 </p>
+
+
 
 <br>
 

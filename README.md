@@ -87,7 +87,7 @@ I work with founders, startups, and small teams who want someone reliable to tur
   <p>
     <a href="https://github.com/zr7791474-blip"><img src="https://img.shields.io/badge/GitHub-zr7791474--blip-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="https://x.com/zkr_ad"><img src="https://img.shields.io/badge/X-@zkr__ad-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-    <a href="mailto:zakariaaadlii@gmail.com"><img src="https://img.shields.io/badge/Email-zr7791474%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+    <a href="mailto:zakariaaadlii@gmail.com"><img src="https://img.shields.io/badge/Email-zakariaaadlii%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
   </p>
 
   <blockquote>
